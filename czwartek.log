@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.17)  9 MAR 2018 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.17)  9 MAR 2018 13:04
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/czwartek.tex
 (c:/Users/njvnyv/Documents/Warhammer/czwartek.tex
@@ -390,36 +390,44 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (czwartek.aux)
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.st
+y"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count87
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (czwartek.aux)
 \openout1 = `czwartek.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 34.
 
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 34.
 
 
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd
 "
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 33.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 34.
 
 
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd
@@ -427,60 +435,60 @@ LaTeX Font Info:    Try loading font information for OMX+plex on input line 33.
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 34.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 33.
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
+(Font)              <6> on input line 34.
 
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 41.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 41.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 41.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 42.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 42.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 42.
 [1
 
 {C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 [3] [4] [5] (czwartek.aux) ) 
 Here is how much of TeX's memory you used:
- 795 strings out of 493312
- 9475 string characters out of 3129391
- 67014 words of memory out of 3000000
- 4363 multiletter control sequences out of 15000+200000
+ 856 strings out of 493312
+ 10317 string characters out of 3129391
+ 68112 words of memory out of 3000000
+ 4420 multiletter control sequences out of 15000+200000
  12780 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,7n,24p,1799b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,7n,24p,1593b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/
 fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek.pdf (5 pages, 46993 bytes).
+Output written on czwartek.pdf (5 pages, 47743 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
