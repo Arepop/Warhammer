@@ -4,6 +4,7 @@
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
 \usepackage{float}
+\usepackage{warhammer}
 
 \newcommand{\whtable}[1]{
     \begin{table}[H]
@@ -26,6 +27,10 @@
     \vspace{50pt}\\
     Ekwipunek:
     \vspace{50pt}
+}
+
+\newcommand{\paragraphx}[1]{
+    \paragraph{\Large{{#1}}}\mbox{}\\
 }
 
 \title{\Huge{Szturm na dom Barona}}
@@ -76,17 +81,29 @@ Drugie piętro składa się z osobistych kwater Barona. Jedna wielka sala, łazi
 
 \pagebreak
 \centering
-\paragraph{\Large{Appendix}}\mbox{}\\
+\paragraphx{Appendix}
 Statystyki oraz ekwipunek zbirów i najemników Barona.
 \raggedright
 
-\whtable{Zbir walka 2}
+\startwhtable[Zbir]
+\primary 37|27|34|25|32|34|36|24
+\secondary 1|12|3|2|4|0|0|0
+\stopwhtable
 
-\whtable{Zbir strzelanie}
+\startwhtable[Zbir 2]
+\primary 27|37|24|35|32|34|36|24
+\secondary 1|12|2|3|4|0|0|0
+\stopwhtable
 
-\whtable{Zbir walka ważny}
+\startwhtable[Zbir 3]
+\primary 42|32|39|30|32|34|36|24
+\secondary 1|14|3|3|4|0|0|0
+\stopwhtable
 
-\whtable{Zbir strzelanie ważny}
+\startwhtable[Zbir 4]
+\primary 32|42|30|39|32|34|36|24
+\secondary 1|14|3|3|4|0|0|0
+\stopwhtable
 
 
 \end{document}
