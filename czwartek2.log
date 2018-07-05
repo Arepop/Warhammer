@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.17)  22 MAR 2018 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.7)  3 JUL 2018 15:56
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
 (c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
 LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
@@ -422,7 +422,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.s
 ty"
-Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )))
 ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\easylist\easylist
 .sty"
@@ -506,25 +506,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-[4] [5] (czwartek2.aux) ) 
+[4] [5] [6] [7] (czwartek2.aux) ) 
 Here is how much of TeX's memory you used:
- 1426 strings out of 493312
- 17174 string characters out of 3129391
- 79388 words of memory out of 3000000
- 4967 multiletter control sequences out of 15000+200000
+ 1426 strings out of 493305
+ 17174 string characters out of 3129368
+ 79452 words of memory out of 3000000
+ 4970 multiletter control sequences out of 15000+200000
  13140 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,24p,1307b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek2.pdf (5 pages, 68957 bytes).
+ 28i,7n,24p,1510b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
+Output written on czwartek2.pdf (7 pages, 76566 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
