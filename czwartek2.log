@@ -1,14 +1,17 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.7)  3 JUL 2018 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.7)  23 JUL 2018 15:31
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
 (c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mwcls\mwart.cls"
+Document Class: mwart 2017/05/13 v0.75 A LaTeX document class (MW)
+*** Beta version. Formatting may change
+*** in future versions of this class.
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mwcls\mw11.clo"
+File: mw11.clo 2017/05/13 v0.75 A document class size option (MW)
 )
+\@parindent=\dimen102
 \c@part=\count79
 \c@section=\count80
 \c@subsection=\count81
@@ -19,10 +22,9 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty
-"
+\bibindent=\dimen103
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.s
+ty"
 Package: a4wide 1994/08/30
  ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
 Package: a4 2004/04/15 v1.2g A4 based page layout
@@ -408,8 +410,8 @@ Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count88
 \calc@Bcount=\count89
-\calc@Adimen=\dimen103
-\calc@Bdimen=\dimen104
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
@@ -441,11 +443,11 @@ Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
 \c@List8=\count102
 \c@List9=\count103
 \c@List10=\count104
-\el@ProgressiveDimension=\dimen105
+\el@ProgressiveDimension=\dimen106
 \el@CounterBox=\box28
 \el@ControlBox=\box29
-\el@TotalMargin=\dimen106
-\el@LeftMove=\dimen107
+\el@TotalMargin=\dimen107
+\el@LeftMove=\dimen108
 ) (czwartek2.aux)
 \openout1 = `czwartek2.aux'.
 
@@ -483,17 +485,11 @@ LaTeX Font Info:    Try loading font information for OMX+plex on input line 13.
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <10.95> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <8> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 13.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 17.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 17.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 17.
  [1
 
 {C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -506,25 +502,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-[4] [5] [6] [7] (czwartek2.aux) ) 
+[4] [5] [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8] (czwartek2.aux) ) 
 Here is how much of TeX's memory you used:
- 1426 strings out of 493305
- 17174 string characters out of 3129368
- 79452 words of memory out of 3000000
- 4970 multiletter control sequences out of 15000+200000
- 13140 words of font info for 38 fonts, out of 3000000 for 9000
+ 1564 strings out of 493305
+ 19306 string characters out of 3129368
+ 81231 words of memory out of 3000000
+ 5113 multiletter control sequences out of 15000+200000
+ 11292 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,24p,1510b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX
- 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek2.pdf (7 pages, 76566 bytes).
+ 28i,7n,24p,1510b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/e
+nc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
+Output written on czwartek2.pdf (8 pages, 76127 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

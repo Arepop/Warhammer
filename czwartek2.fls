@@ -2,10 +2,12 @@ PWD c:/Users/njvnyv/Documents/Warhammer
 INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
 INPUT c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
 OUTPUT czwartek2.log
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mwart.cls
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mwart.cls
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mw11.clo
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mw11.clo
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/a4wide/a4wide.sty
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/a4wide/a4wide.sty
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ntgclass/a4.sty
@@ -45,14 +47,12 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/zapfding
 INPUT czwartek2.aux
 INPUT czwartek2.aux
 OUTPUT czwartek2.aux
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr12.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr8.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr6.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omlplm.fd
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omlplm.fd
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi12.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi8.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi6.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omsplsy.fd
@@ -63,14 +63,9 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex.fd
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex.fd
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plex10.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr7.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr5.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi10.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi7.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi5.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy10.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy7.tfm
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy5.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx12.tfm
 OUTPUT czwartek2.pdf
