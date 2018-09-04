@@ -1,0 +1,58 @@
+PWD c:/Users/njvnyv/Documents/Warhammer/Meta
+INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1.tex
+OUTPUT Day_1.log
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/a4wide/a4wide.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/a4wide/a4wide.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ntgclass/a4.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ntgclass/a4.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/polski.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/polski.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmr.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot4enc.def
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmr.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmr.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr10.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT Day_1.aux
+INPUT Day_1.aux
+OUTPUT Day_1.aux
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr17.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr12.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr8.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr6.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omlplm.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omlplm.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi12.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi8.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plmi6.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omsplsy.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omsplsy.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy10.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy8.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plsy6.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plex10.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx10.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx12.tfm
+OUTPUT Day_1.pdf
+INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT Day_1.aux
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb

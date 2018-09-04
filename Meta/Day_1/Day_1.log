@@ -1,0 +1,154 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  4 SEP 2018 14:26
+entering extended mode
+**c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1.tex
+(c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty
+"
+Package: a4wide 1994/08/30
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty
+"
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Switching to Polish text encoding and Polish maths fonts.
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot4enc.def"
+File: ot4enc.def 2017/04/05 v2.0i Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 360.
+
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 360.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
+)
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (Day_1.aux)
+\openout1 = `Day_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 18.
+
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 18.
+
+
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd
+"
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 18.
+
+
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd
+"
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+{C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Day_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 549 strings out of 492973
+ 7856 string characters out of 3126250
+ 66135 words of memory out of 3000000
+ 4455 multiletter control sequences out of 15000+200000
+ 9827 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,25p,458b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/pl/plr17.pfb>
+Output written on Day_1.pdf (1 page, 35616 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
