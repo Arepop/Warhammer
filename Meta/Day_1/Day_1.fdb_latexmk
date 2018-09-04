@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1536063977 "c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1.tex" "Day_1.pdf" "Day_1" 1536063978
+["pdflatex"] 1536068390 "c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex" "Day_1.pdf" "Day_1" 1536068391
   "C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1536061239 4161534 c33860347c452cb610cd9779c076856a ""
   "C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1536063471 119573 df13d226bf57afa858554e74d07022eb ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc" 958947240 1944 1845592c00bbe510359fd6887a83ff72 ""
@@ -33,10 +33,10 @@
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex.fd" 1494599284 1323 a1205ac8611390c6de04f8d76756c3c4 ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmr.fd" 1494599284 2680 8c16345f9109faed2ca2ff52e16d8a6f ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/polski.sty" 1494599284 13687 401406f54546887504ce1857a307089b ""
-  "Day_1.aux" 1536063978 113 c365654ab54d202df0d6ca3890547b3b ""
-  "Day_1.tex" 1536063977 3195 8404bfeddde2826f66e5a06d93a4c0a5 ""
-  "c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1.tex" 1536063977 3195 8404bfeddde2826f66e5a06d93a4c0a5 ""
+  "Day_1.aux" 1536068391 233 1daf77e500b8516f568964b0b555a5b1 ""
+  "Day_1.tex" 1536068389 3320 69722d1a56f06da254545f72c57b5008 ""
+  "c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex" 1536068389 3320 69722d1a56f06da254545f72c57b5008 ""
   (generated)
-  "Day_1.aux"
   "Day_1.pdf"
   "Day_1.log"
+  "Day_1.aux"
