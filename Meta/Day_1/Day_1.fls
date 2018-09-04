@@ -44,9 +44,13 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/omxplex
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plex10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx12.tfm
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmtt.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmtt.fd
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/pltt10.tfm
 OUTPUT Day_1.pdf
 INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
 INPUT Day_1.aux
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/pltt.enc
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb
@@ -56,3 +60,5 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/pl
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/pltt10.pfb
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/pltt10.pfb

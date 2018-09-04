@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  4 SEP 2018 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  4 SEP 2018 17:07
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex
 (c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex
@@ -128,27 +128,41 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <8> on input line 18.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 18.
- [1
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 42.
+
+
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd
+"
+File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+Overfull \hbox (52.40973pt too wide) in paragraph at lines 42--43
+[]\OT4/cmtt/m/n/10 W osadzie/mie±cie zaczyna brakowa¢ ±wierzej wody. Od jakich±
+ trzech miesi¦cy dystrybucja
+ []
+
+[1
 
 {C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (Day_1.aux) ) 
 Here is how much of TeX's memory you used:
- 549 strings out of 492973
- 7898 string characters out of 3126250
- 66135 words of memory out of 3000000
- 4455 multiletter control sequences out of 15000+200000
- 9827 words of font info for 29 fonts, out of 3000000 for 9000
+ 569 strings out of 492973
+ 8308 string characters out of 3126250
+ 67135 words of memory out of 3000000
+ 4471 multiletter control sequences out of 15000+200000
+ 10123 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,25p,464b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/pl/pltt.enc}{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
 /pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/pl/plr17.pfb>
-Output written on Day_1.pdf (1 page, 36392 bytes).
+nts/type1/public/pl/plr17.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/pl/pltt10.pfb>
+Output written on Day_1.pdf (1 page, 45830 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
