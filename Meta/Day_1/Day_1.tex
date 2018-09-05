@@ -4,6 +4,10 @@
     \usepackage{polski}
     \usepackage[utf8]{inputenc}
     \usepackage{float}
+    \usepackage{xcolor}
+    \usepackage[ampersand]{easylist}
+    \usepackage{tcolorbox}
+
     % \usepackage[greek]{babel}
     % \usepackage[LGR]{fontenc}
 
@@ -12,33 +16,135 @@
 
     }
 
+    \newcommand{\textbb}[1]{
+        \smallskip
+        \textbf{{#1}}
+        \smallskip
+    }
+
     \title{\Huge{Day 1}}
     \author{Arkadiusz Popczak}
+    \date{}
     \begin{document}
     \maketitle
 
     \paragraphx{Przedmowa}
-    Rok 1231 kalendarza Rodgera I: W wiosce przybywa coraz więcej ludzi. Dziwne stalowe istoty przestały dostarczać nam jedzenia i wody pod żelazną bramą. Dostajemy w nich narzędzia oraz rzeczy z księgami, które rozumieją tylko starsi. Uczą nas jak z nich korzystać. Jeżeli nie będziemy potrzebować stalowych istot aby przetrwać może będziemy mogli utrzymać przyrozt populacji.
+    \textbb{Rok 1231 kalendarza Rodgera I:}
 
-    Rok 1239 kalendarza Rodgera I: Nasze uprawy i hodowle zwierząt przynoszą efekty. Populacja nasza zwiększyła się dwukrotnie choć wiele dzieci nadal ginie przy porodzie. Starszyzna dostała dziwne rysunki od stalowych. Podobno będziemy teraz budować domy z kamienia.
+    W wiosce przybywa coraz więcej ludzi. Dziwne stalowe istoty przestały dostarczać nam jedzenia i wody pod żelazną bramą. Dostajemy w nich narzędzia oraz rzeczy z księgami, które rozumieją tylko starsi. Uczą nas jak z nich korzystać. Jeżeli nie będziemy potrzebować stalowych istot aby przetrwać może będziemy mogli utrzymać przyrozt populacji.
 
-    Rok 1265 kalendarza Rodgera I: Starszyzna została zabita podczas buntu. Piszę więc swoje ostatnie słowa aby przekazać informacje o urządzeniach które zostały do tego użyte. Schematy oraz egzemplarze jakie dostaliśmy zostały zniszczone. Jeżeli ta broń zagłady zostanie rozpowszechniona przyszłość miasta jest dla mnie zagadką.
+    \textbb{Rok 1239 kalendarza Rodgera I:}
 
-    Rok 1267 kalendarza Rodgera I: 435 dzień buntu. Jesteśmy prawie pewni, że tamci zdobyli schematy broni. Wczoraj Andre zobaczył otwartą bramę i stalowych przez nią wchodzących. W nocy słyszeliśmy krzyki po drugiej stronie barykady. Od tamtej pory ataki ustały. Przygotowujemy się na najgorsze choć niektórzy twierdzą, że to my wygraliśmy.
+    Nasze uprawy i hodowle zwierząt przynoszą efekty. Populacja nasza zwiększyła się dwukrotnie choć wiele dzieci nadal ginie przy porodzie. Starszyzna dostała dziwne rysunki od stalowych. Podobno będziemy teraz budować domy z kamienia.
 
-    Rok 0 kalendarza po Odkryciu: Odnależliśmy dzisiaj ten dziennik i postanowiłem go kontynuować. Nie mam pojęcia co to za broń ani za stalowe istoty, ale jestem pewien, że zabiły naszych przodków. Nikt nie wrócł żywy spod bramy o której mowa. Jeżeli to ta sama brama którą my napotkaliśmy. Ann oczekuje kolejnego dziecka. Liczba osób: 121.
+    \textbb{Rok 1265 kalendarza Rodgera I:}
 
-    Rok 30 kalendarza po Odkryciu: Zbliżają się moje ostatnie dni. Osada przeistacza się w coś większego. Mamy dostęp do wody oraz jedzenia. Wszystkie schematy które znalazłem ukryłem aby nie dostały się w niepowołane ręce. Jeżeli mielibyśmy być zmasakrowani tak jak poprzednicy. Jeżeli czytasz ten dziennik wiedz, że nie przynoszą one nic dobrego. Populacja: 430.
+    Starszyzna została zabita podczas buntu. Piszę więc swoje ostatnie słowa aby przekazać informacje o urządzeniach które zostały do tego użyte. Schematy oraz egzemplarze jakie dostaliśmy zostały zniszczone. Jeżeli ta broń zagłady zostanie rozpowszechniona przyszłość miasta jest dla mnie zagadką.
 
-    Rok 56 kalendarza po Odkryciu: Znalazłem schematy ale nie umiem ich odczytać. dziwne rysunki pomogły nauczyć mi się jak działają niektóre ze znalezisk. Zachowam je na wypadek jakiegoś buntu czy ataku. Pora przejąć władzę nad miastem.
+    \textbb{Rok 1267 kalendarza Rodgera I:}
 
-    Rok 143 kalendarza po Odkryciu: Zaczyna brakować wody. Staw który zawsze był pełen wysycha. Reszta wody jest zanieczyszczona. Technicy, którzy analizują sytuację nie znają nadal ku temu powodu. Pierwsze wyprawy za stalową barierę nie wracają już od kilku miesięcy. Musimy wysłać kolejną. Jeżeli nie znajdziemy nowego źródła wody czeka nas zagłada. Populacja 1540.
+    Czterysta trzydziesty piąty dzień buntu. Jesteśmy prawie pewni, że tamci zdobyli schematy broni. Wczoraj Andre zobaczył otwartą bramę i stalowych przez nią wchodzących. W nocy słyszeliśmy krzyki po drugiej stronie barykady. Od tamtej pory ataki ustały. Przygotowujemy się na najgorsze choć niektórzy twierdzą, że to my wygraliśmy.
+
+   \textbb{Rok 0 kalendarza po Odkryciu:}
+
+   Odnależliśmy dzisiaj ten dziennik i postanowiłem go kontynuować. Nie mam pojęcia co to za broń ani za stalowe istoty, ale jestem pewien, że zabiły naszych przodków. Nikt nie wrócł żywy spod bramy o której mowa. Jeżeli to ta sama brama którą my napotkaliśmy. Ann oczekuje kolejnego dziecka. Liczba osób: 121.
+
+    \textbb{Rok 30 kalendarza po Odkryciu:}
+
+    Zbliżają się moje ostatnie dni. Osada przeistacza się w coś większego. Mamy dostęp do wody oraz jedzenia. Wszystkie schematy które znalazłem ukryłem aby nie dostały się w niepowołane ręce. Jeżeli mielibyśmy być zmasakrowani tak jak poprzednicy. Jeżeli czytasz ten dziennik wiedz, że nie przynoszą one nic dobrego. Populacja: 430.
+
+    \textbb{Rok 56 kalendarza po Odkryciu:}
+
+    Znalazłem schematy ale nie umiem ich odczytać. dziwne rysunki pomogły nauczyć mi się jak działają niektóre ze znalezisk. Zachowam je na wypadek jakiegoś buntu czy ataku. Pora przejąć władzę nad miastem.
+
+    \textbb{Rok 143 kalendarza po Odkryciu:}
+
+    Zaczyna brakować wody. Staw który zawsze był pełen wysycha. Reszta wody jest zanieczyszczona. Technicy, którzy analizują sytuację nie znają nadal ku temu powodu. Pierwsze wyprawy za stalową barierę nie wracają już od kilku miesięcy. Musimy wysłać kolejną. Jeżeli nie znajdziemy nowego źródła wody czeka nas zagłada. Populacja 1540.
 
     \paragraphx{Problemy z wodą}
     - Wasza 16 została wybrana aby wyjść z naszego wspaniałej osady i iść w nieznane aby zapewnić nam przetrwanie. - Odezwał się do więźniów zarządca osady.
 
-    - Kiedy wyjedziecie miejcie na uwadze, że po powrocie wszystkie wasze grzechy i czyny wobec systemu zostaną wybaczone a wy uznawani będziecie za bohaterów. Wasze życia należą teraz do mnie. Macie jakieś pytania? - Ze zniecierpliwieniem odezwał się zarządca.
+    - Kiedy wyjedziecie miejcie na uwadze, że po powrocie wszystkie wasze grzechy i czyny wobec systemu zostaną wybaczone a wy uznawani będziecie za bohaterów. Wasze życia należą teraz do mnie. Macie jakieś pytania? - Ze zniecierpliwieniem odezwał się zarządca.\bigskip
 
-    \texttt{W osadzie/mieście zaczyna brakować świerzej wody. Od jakichś trzech miesięcy dystrybucja wody została przejęta przez władze.}
+    \slshape
+    W osadzie/mieście "\textbb{Darany}" zaczyna brakować świeżej wody. Od jakichś trzech miesięcy dystrybucja wody została przejęta przez władze. Woda została skażona poprzez wycieki radioaktywnych odpadów z eletrowni, które powstały z powodu usterek w automatycznym uzdatnianiu. Sytuacja ta panuje już sporo czasu i woda w okolicy staje się niezdatna do picia. Elektrownie znajdują się pod ziemią i ciężko do nich jest trafić. Nawet jeśli uda się tam dotrzeć, w tym momencie gracze nie mają odpowiednich umiejętności aby je naprawić.
+    W swoją podróż wyruszają pod przymusem jako więzniowie polityczni i jest to ich jedyna szansa na przeżycie jako, że ciąży na nich wyrok śmierci przez powieszenie. Wyposażenie jakie dostają to dwa stare automaty z ograniczoną ilością amunicji. Prowiantem na kilka dni i bronią białą. W wiosce mieszkają ludzie w budynkach pół na pół z cegły i starych metalowych płyt. Technologia wytwarzania metalu dawno była zatracona. Pomimo posiadania schematów broni i instrukcji wytwarzania elemntów metalowych, język jakiego użyto jest dla nikogo teraz nieznany. Aczkolwiek przetrwał w wiosce elementy elektroniki i elektryki z epoki Rodgera, które niektórzy potrafią użytkować (Komputery w stylu IBM PC oraz Compaq Portable). Nikt nie wie jak działają, ani dlaczego. Ale podane tam są koordynaty osady, która powstała obok. Zarówno "Darany" jak i "Wieżowo" powstały jako ośrodki eksperymentalne do testowania ludzkich zachowań przez komputer.
 
+    "Darany" eksperymentowało nad przyrostem naturalnym i stymulowanym rozwojem technologicznym i badały zależność między agresją, gęstością populacji i agresją. Ogrodzony teren byłnieprzekraczalny i każdy kto próbował go opuścić natrafiał na barierę podpiętą do prądu. Gdy zebrano wystarczającą ilość danych osadę podano eksterminacji. Na szczęście kilkanaście osób przeżyło co wystarczyło aby odnowić populację i zasiedlić wioskę. W tym czasie projekt zamknięto. A osadę pozostawiono samą sobie. Bez zwierzchnictwa ludzi komputer nie rozpoczynał nowych eksprymentów i z czasem się zepsuł. Od wtedy można wyjść za płot który trzyma niebezpieczeństwa z dala od osady. (Ci którzy poszli nigdy nie wrócili). \bigskip
+
+    \normalfont
+    -Macie jeden dzień na zebranie się i wyruszenie. Odejść.
+
+    \paragraphx{Przygotowania}
+    \slshape
+    Ekwipunek oraz materiały na podróż są już przygotowane. Gracze jedyne co mogą to udać się do starej biblioteki lub do komputera aby dowiedzieć się gdzie się pierwsze udać. Dodatkowo mogą w wybranym miejscu ustalić plan działania. W bibliotece mogą znaleźć mapę osady wraz z zaznaczonym płotem. (Dodatek: Mapa "Darany"). Tą część staramy się skrócić do minimum. Gracze powinni czuć presję na karku aby jak najszybciej wyruszyć z osady. Zdają sobię sprawę z konsekwencji jeśli nie pójdą. Jako osobiste cele najlepiej wybrać jedno z poniższych:
+    \bigskip
+    \begin{easylist}[itemize]
+        & Chęć eksploracji.
+        & Ucieczka od śmierci.
+        & Badacz lub naukowiec.
+        & Zaimponowanie zarządcy.
+        & Ratowanie rodziny.
+    \end{easylist}
+
+    \bigskip
+
+    Każda z tych opcji może zostaćodpowiednio urozmaicona.
+
+    \newpage
+
+    Dla przykładu Ratowanie Rodziny:
+
+    \begin{tcolorbox}
+        \ttfamily
+        Trzy miesiące temu odcięto swobodny dostęp do wody. Twoja żona będąc w ciąży potrzebiwała jej aby utrzymać stałe nawodnienie. Zdecydowałeś się z paroma kumplami z okolicy, że w nocy pójdziecie pod jeziorko i ukradniecie wodę. Przyłączyli się do Ciebie przeciwnicy zarządcy chcąc pokazać swój bunt jako, że z nimi się zgadzałeś zaplanowaliście to jako symbol walki z niesprawiedliwą władzą. Złapano was kiedy Twój brat upuścił wiadro z wodą na metalowy dach. Szybko was złapano a następnie torturowano. Przez Twoją akcję walki z reżimem i kradzież wody, nie tylko Ty jesteś zagrożony. Nie było to tak dobrym pomysłem na ten moment jak wydawało się wcześniej. Wiesz, że podjęcie się tego zadania zagwarantuje przeżycie nie tylko Tobie, ale również życie Twojej córki i żony, które teraz są w areszcie.
+    \end{tcolorbox}
+
+
+    \bigskip
+
+    Wprawny MG bez problemu wymyśli swoje cele i motywy postaci, lub pozwoli wymyślić je graczom. Dla każdego z wymienionych motywów załączam przykłądowe opisy.
+
+    \bigskip
+
+    Chęć eksploracji:
+    \begin{tcolorbox}
+        \ttfamily
+        Kiedy pierwszy raz wszedłeś do biblioteki wymykając się z domu od razu zainteresowała Cię grubo oprawiona książka. Otworzywszy ją zobaczyłeś jakieś robaczki i szlaczki a pod nimi obrazek dziwnego stwora. Cztery odnóża, głowa i włosy na całym ciele. Podpis pod obrazkiem był "Kot". Chciałeś dowiedzieć się więcej o tej kreaturze. Powoli zacząłeś uczyć się czytać i pisać a w głowie byłeś na wspaniałej przygodzie po dżungli. Po latach pełniąc urząd w składzie zarządcy przeczytałeś nie ten list co trzeba. Złapany przez strażników kiedy próbowałeś spalić informacje trafiłeś do pierdla. Kiedy zaproponowano Ci wyjsć z osady wiedziałeś, że to okazja spełnić marzenia z dzieciństwa. Ale aby podzielić się w przyszłości zdobytą wiedzą koniecznie musisz tu wrócić.
+    \end{tcolorbox}
+
+
+    \bigskip
+
+    Ucieczka przed śmiercą:
+
+    \begin{tcolorbox}
+        \ttfamily
+        Cztery lata prac przy kamieniołomie dały Ci czas na refleksje i przemyślenia. Dwie rodziny, które wymordowałeś zanim zostałeś złapany do dzisiaj są opłakiwane przez bliskich. Ale Ty wiesz swoje. Te bogate ku*wy nie będą Ci rozkazywać. Po miesiącach tortur zamiast Cię zabić zesłano Cię do pracy. Marne jedzenie i codzienne nowe narzędzia do sprawiania bólu stały się Twoją codziennością. Po tylu latach chciałbyś aby się to skończyło. Teraz wiesz, że mógłbyś to zrobić inaczej. Kiedy powiedziano, że wysyłają Cię za osadę w poszukiwaniu wody wiedziałeś, że to Twoja szansa na wyrwanie się z tego kurwidołka. Obiecano Ci oczyszczenie ze zbrodni jeśli wrocisz a wiesz, że sam tam możesz nie przetrwać. Pozatym trzeba dokończyć robotę...
+    \end{tcolorbox}
+
+    \newpage
+    \bigskip
+
+    Zaimponowanie zarządcy:
+
+    \begin{tcolorbox}
+        \ttfamily
+        To Ciebie wybrał on, kochany i dobry przywódca. Nie możesz go zawieść! Zawsze byłeś na jego rozkazy. Od kiedy pamiętasz on uczył Cię chodzić i mówić. Czytać i pisać. Spełniałeś jego każde zadanie skrupulatnie i dokładnie. Czasami w zamian pozwalał Ci spać w łóżku a nie na ziemi. Kiedy się go słuchałeś życie dla Ciebie było dużo lepsze niż dla innych. Ale kiedy się nie słuchałeś wiedziałeś jak surowe są jego kary. Sam zgłosiłeś się aby pójść z tymi degeneratami i pokazać ile jesteś warty. Kiedy wyruszały pierwsze ekipy zabronił Ci iść. Mówił, że to nie dla Ciebie. Teraz powierzył Ci ważne zadanie. To Ty masz znaleźć wodę dla ludu i zaistnieć jako jego prawa ręka. Taka szansa nie zdarza się zawsze. nigdy o tym nawet nie marzyłeś. Taka szansa od zarządcy dla Ciebie. Jesteś wybrany, najlepszy!
+    \end{tcolorbox}
+
+    Badania i nauka:
+
+    \begin{tcolorbox}
+        \ttfamily
+        "Ucz się synu ucz bo nauka to potęgi klucz." mawiał Twój dziad do Twojego ojca i ojciec do Ciebie. Z tego powodu uczyłeś się. Poznałeś matematykę, umiałeś składać w całość elementy o których inni mówili że to szmelc. Obsługę komputera w bibliotekę poznałeś w dwa lata. Po kolejnych trzech dostałeś się do rekordów dziennika pozostowianego przez Twojego dziadka. Myślałeś, że dzięki temu poprowadzisz do rozwoju osady, pomożesz zbuntować się przeciwko zarządcy. Zebrałeś grupę ochotników. Organizowałeś akcje antyrządowe. Umiałeś pomóc wszystkim gdyż poznałeś podstawy medycyny. Mimo walki z reżimem Ty dałeś anonimową wiadomość o skażeniu wody. Ale ta wiedza Cię zgubiła, bo ktoś był jednak mądrzejszy. Zamknięty w celi miałeś pracować dla zarządcy nad rozszyfrowaniem schematów, ale wiedza, którą tam ukryto w tym miejscu jest nie do odzyskania. Wiedział i o tym ten który wrzucił Cię do celi. Dlatego kazał Tobie iść i znaleźć żródło wody jeżeli nie ma tu jak jej oczyszczać. A jedynie Ty będziesz wiedział gdzie będzie czysta.
+    \end{tcolorbox}
+
+    \bigskip
+
+    Po poznaniu swoich postaci i motywów, brzaskiem (słońce to sztuczna kula światła jeżdząca po suficie i odpowiednio zmieniająca kolor.) dnia następnego zostają pod obstawą zaprowadzeni na obżerza osady. Wskazany jest im kierunek do bramy i pod naporem siły są dalej wypychani.
+
+    \paragraphx{W nieznane}
+
+    Przedzierając sie przez, tutaj dosyś rzadkie, krzaki i drzewa przypominające te w lasach deszczowych po jakimś czasie dotrą do płotu. Na płocie zawieszone są stare metalowe tabliczki z symbolem pioruna oraz napisem danger. (Tu mogą odpaść pierwsi NPC, którzy dotknął płotu). Idąc wzdłóż płotu natrafią w końcu na bramę (Lub jeżeli ich postacie będą wiedzieć jak ominąć elektryczny płot to skok przez płot). Istnieje też szansa, że ustalą co stało się z kilkoma osobami z poprzedniej ekipy. Przy odpowiednim szczęściu uda im się znależć dziurę w płocie gdzie będą mogli przejść. Jeżeli jednak dotrą do bramy ich zadaniem będzie ją ominąć. Brama jest odizolowana od płotu i da się ją przeskoczyć. Zamek jest elektryczny. Siatka t o gruba siatka której nie da się poprostu przeciąć a sama brama osadzona na 10 metrowych stalowych balach i gruba na 1,5m stanowić będzie nie lada przeszkodę. Tutaj do dyspozycji graczy może być lina (i okazja do pozbycia się kolejnych NPCów). Za bramą jest już teren nieznany. Nikt nigdy z tamtąd nie wrócił z żadnymi informacjami. Wiadomo jednak, że dalej coś istnieje z powodu zapisków w dzienniku o stalowych maszynach.
     \end{document}
