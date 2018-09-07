@@ -1,6 +1,6 @@
-PWD c:/Users/njvnyv/Documents/Warhammer
+PWD c:/Users/njvnyv/Documents/Warhammer/War
 INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT c:/Users/njvnyv/Documents/Warhammer/czwartek2.tex
+INPUT c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
 OUTPUT czwartek2.log
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mwart.cls
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwcls/mwart.cls
@@ -21,14 +21,6 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/ot4cmr.
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plr10.tfm
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/utf8.def
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/utf8.def
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/t1enc.dfu
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/t1enc.dfu
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot1enc.dfu
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot1enc.dfu
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omsenc.dfu
-INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omsenc.dfu
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
 INPUT warhammer.sty
