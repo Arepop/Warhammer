@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  5 SEP 2018 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  23 OCT 2018 14:14
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
 (c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
@@ -22,14 +22,11 @@ File: mw11.clo 2017/05/13 v0.75 A document class size option (MW)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
-) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.s
-ty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty"
 Package: a4wide 1994/08/30
  ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
 Package: a4 2004/04/15 v1.2g A4 based page layout
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty
-"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty"
 Package: polski 2017/05/04 v1.3.4 Polish language package
 
    Switching to Polish text encoding and Polish maths fonts.
@@ -39,8 +36,7 @@ Now handling font encoding OT4 ...
 ... no UTF-8 mapping file for font encoding OT4
 )
 LaTeX Font Info:    Try loading font information for OT4+cmr on input line 360.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -57,7 +53,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
 LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
 (Font)              `operators' in the math version `normal' on input line 360.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -74,14 +69,11 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 (Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks16
@@ -90,9 +82,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box27
 ) (warhammer.sty
 Package: warhammer 2018/03/21 WFRP 2ed useful commands
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.s
-ty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty"
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
  ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
@@ -106,16 +96,11 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count91
 \calc@Cskip=\skip45
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.s
-ty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty"
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
-)))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\easylist\easylist
-.sty"
+))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\easylist\easylist.sty"
 Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
 \el@CounterTotal=\count92
 \el@Scratch=\count93
@@ -154,22 +139,15 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Try loading font information for OML+plm on input line 13.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+plsy on input line 13.
-
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd
-"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+plex on input line 13.
-
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd
-"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -193,24 +171,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 [4] [5] [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-[8] (czwartek2.aux) ) 
+ [7] [8] (czwartek2.aux) ) 
 Here is how much of TeX's memory you used:
- 1278 strings out of 492973
- 17087 string characters out of 3126250
+ 1280 strings out of 492973
+ 17113 string characters out of 3126250
  84186 words of memory out of 3000000
- 5159 multiletter control sequences out of 15000+200000
- 11292 words of font info for 33 fonts, out of 3000000 for 9000
+ 5161 multiletter control sequences out of 15000+200000
+ 11796 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,7n,25p,1514b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/e
-nc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek2.pdf (8 pages, 76099 bytes).
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
+Output written on czwartek2.pdf (8 pages, 76969 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

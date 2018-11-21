@@ -62,6 +62,7 @@ INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx12.tfm
 OUTPUT czwartek2.pdf
 INPUT C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/pl/plbx12.tfm
 INPUT czwartek2.aux
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc
 INPUT C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb

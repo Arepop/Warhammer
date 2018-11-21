@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1536153384 "c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex" "czwartek2.pdf" "czwartek2" 1536153384
+["pdflatex"] 1540296871 "c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex" "czwartek2.pdf" "czwartek2" 1540296872
   "C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1536061239 4161534 c33860347c452cb610cd9779c076856a ""
   "C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1536153241 160085 5872a95188636b7f572c6f90222e8e46 ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc" 958947240 1944 1845592c00bbe510359fd6887a83ff72 ""
@@ -42,11 +42,11 @@
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polski/polski.sty" 1494599284 13687 401406f54546887504ce1857a307089b ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/calc.sty" 1525888914 10212 357072c1d20578a30d6387d8a22e72ab ""
   "C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xifthen/xifthen.sty" 1448278036 5689 1bfa68243e89a54479e7d0580773c57e ""
-  "c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex" 1536153382 20405 25e4fe487ddef7282da1cb27a6abf8d9 ""
-  "czwartek2.aux" 1536153384 442 5a3e2eeb1f23b6cff6f45949f61594dd ""
-  "czwartek2.tex" 1536153382 20405 25e4fe487ddef7282da1cb27a6abf8d9 ""
+  "c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex" 1540296870 20467 06addb6aeb3dd77a850f32533d7811b4 ""
+  "czwartek2.aux" 1540296872 561 7e62b2c3e844f19d84a414566a5ced1b ""
+  "czwartek2.tex" 1540296870 20467 06addb6aeb3dd77a850f32533d7811b4 ""
   "warhammer.sty" 1536063517 1761 f922c6ff23b88571041cc11bc5435518 ""
   (generated)
-  "czwartek2.log"
   "czwartek2.aux"
+  "czwartek2.log"
   "czwartek2.pdf"
