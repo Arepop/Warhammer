@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  23 OCT 2018 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  13 MAR 2019 12:30
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
 (c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
@@ -173,15 +173,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7] [8] (czwartek2.aux) ) 
 Here is how much of TeX's memory you used:
- 1280 strings out of 492973
- 17113 string characters out of 3126250
+ 1278 strings out of 492973
+ 17087 string characters out of 3126250
  84186 words of memory out of 3000000
- 5161 multiletter control sequences out of 15000+200000
- 11796 words of font info for 34 fonts, out of 3000000 for 9000
+ 5159 multiletter control sequences out of 15000+200000
+ 11292 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,7n,25p,1514b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek2.pdf (8 pages, 76969 bytes).
+Output written on czwartek2.pdf (8 pages, 76099 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
