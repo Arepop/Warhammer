@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  27 SEP 2018 10:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  15 MAR 2019 11:03
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex
 (c:/Users/njvnyv/Documents/Warhammer/Meta/Day_1/Day_1.tex
@@ -19,15 +19,11 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty"
 Package: a4wide 1994/08/30
  ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
 Package: a4 2004/04/15 v1.2g A4 based page layout
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty
-"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty"
 Package: polski 2017/05/04 v1.3.4 Polish language package
 
    Switching to Polish text encoding and Polish maths fonts.
@@ -37,8 +33,7 @@ Now handling font encoding OT4 ...
 ... no UTF-8 mapping file for font encoding OT4
 )
 LaTeX Font Info:    Try loading font information for OT4+cmr on input line 360.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -55,7 +50,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
 LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
 (Font)              `operators' in the math version `normal' on input line 360.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -72,33 +66,24 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 (Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks16
 \float@box=\box26
 \@float@everytoks=\toks17
 \@floatcapt=\box27
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
-r.cfg"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
-ex.def"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -110,9 +95,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\easylist\easylist
-.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\easylist\easylist.sty"
 Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
 \el@CounterTotal=\count89
 \el@Scratch=\count90
@@ -133,77 +116,42 @@ Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
 \el@ControlBox=\box29
 \el@TotalMargin=\dimen104
 \el@LeftMove=\dimen105
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcolorb
-ox.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty"
 Package: tcolorbox 2018/07/26 version 4.14 text color boxes
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
-f.sty"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgf
-rcs.sty"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfutil-common.tex"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen106
 \pgfutil@tempdimb=\dimen107
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfutil-common-lists.tex"))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfutil-latex.def"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex")) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 \pgfutil@abb=\box30
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfrcs.code.tex"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
-fcore.sty"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
-.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
-ty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
-.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
-hics.cfg"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
-gfsys.sty"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgfsys.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfkeys.code.tex"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
-gfkeysfiltered.code.tex"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen110
@@ -223,74 +171,32 @@ gfkeysfiltered.code.tex"
 \t@pgf@toka=\toks23
 \t@pgf@tokb=\toks24
 \t@pgf@tokc=\toks25
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgf.cfg"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgfsys-pdftex.def"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgfsys-common-pdf.def"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgfsyssoftpath.code.tex"
+))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count107
 \pgfsyssoftpath@bigbuffer@items=\count108
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
-\pgfsysprotocol.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcore.code.tex"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-h.code.tex"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hcalc.code.tex"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hutil.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hparser.code.tex"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen118
 \pgfmath@count=\count109
 \pgfmath@box=\box31
 \pgfmath@toks=\toks26
 \pgfmath@stack@operand=\toks27
 \pgfmath@stack@operation=\toks28
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.code.tex"
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.basic.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.trigonometric.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.random.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.comparison.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.base.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.round.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.misc.code.tex")
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfunctions.integerarithmetics.code.tex")))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
-hfloat.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex" ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex") ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count110
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorepoints.code.tex"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen119
 \pgf@picmaxx=\dimen120
@@ -306,121 +212,75 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@yy=\dimen130
 \pgf@zx=\dimen131
 \pgf@zy=\dimen132
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorepathconstruct.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen133
 \pgf@path@lasty=\dimen134
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorepathusage.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen135
 \pgf@shorten@start@additional=\dimen136
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorescopes.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box32
 \pgf@hbox=\box33
 \pgf@layerbox@main=\box34
 \pgf@picture@serial@count=\count111
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoregraphicstate.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen137
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoretransformations.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen138
 \pgf@pt@y=\dimen139
 \pgf@pt@temp=\dimen140
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorequick.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoreobjects.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorepathprocessing.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorearrows.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen141
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoreshade.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen142
 \pgf@sys@shading@range@num=\count112
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoreimage.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoreexternal.code.tex"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box35
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorelayers.code.tex"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcoretransparency.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
-pgfcorepatterns.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
-moduleshapes.code.tex"
+))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box36
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
-moduleplot.code.tex"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
-\pgfcomp-version-0-65.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen143
 \pgf@nodesepend=\dimen144
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
-\pgfcomp-version-1-18.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.st
-y"
+)) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks29
 \verbatim@line=\toks30
 \verbatim@in@stream=\read2
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.s
-ty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.sty"
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimsp
-aces.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks31
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
-.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count113
 )
@@ -437,18 +297,11 @@ Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box44
 \tcb@out=\write4
 \tcb@record@out=\write5
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transpar
-ent.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
-
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
-sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
-sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )) (Day_1.aux)
 \openout1 = `Day_1.aux'.
@@ -467,9 +320,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
-kii"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
 \scratchdimen=\dimen145
@@ -482,41 +333,23 @@ kii"
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks33
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
--base.sty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
-err.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
-ty"
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
-nekeys.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
-s.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
-s.sty"
+))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
-eys.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
-ds.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
-ex.sty"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -524,40 +357,28 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
-cmds.sty"
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
-)
+))) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
 LaTeX Font Info:    Try loading font information for OML+plm on input line 32.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+plsy on input line 32.
-
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd
-"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+plex on input line 32.
-
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd
-"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -570,348 +391,288 @@ LaTeX Font Info:    External font `plex10' loaded for size
 
 {C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 86.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/sl' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
-
-[2]
-LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 102
-.
-
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd
-"
+ [2]
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 102.
+ ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd"
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-[]\OT4/cmtt/m/sl/10 Trzy miesi¡ce temu odci¦to swobodny dost¦p do wody. Twoja »
-ona b¦d¡c w
+[]\OT4/cmtt/m/sl/10 Trzy miesi¡ce temu odci¦to swobodny dost¦p do wody. Twoja »ona b¦d¡c w
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 ci¡»y potrzebiwaªa jej aby utrzyma¢ staªe nawodnienie. Zdecyd
-owaªe± si¦ z
+\OT4/cmtt/m/sl/10 ci¡»y potrzebiwaªa jej aby utrzyma¢ staªe nawodnienie. Zdecydowaªe± si¦ z
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 paroma kumplami z okolicy, »e w nocy pójdziecie pod jeziorko 
-i ukradniecie
+\OT4/cmtt/m/sl/10 paroma kumplami z okolicy, »e w nocy pójdziecie pod jeziorko i ukradniecie
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 wod¦. Przyª¡czyli si¦ do Ciebie przeciwnicy zarz¡dcy chc¡c po
-kaza¢ swój
+\OT4/cmtt/m/sl/10 wod¦. Przyª¡czyli si¦ do Ciebie przeciwnicy zarz¡dcy chc¡c pokaza¢ swój
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 bunt jako, »e z nimi si¦ zgadzaªe± zaplanowali±cie to jako sy
-mbol walki z
+\OT4/cmtt/m/sl/10 bunt jako, »e z nimi si¦ zgadzaªe± zaplanowali±cie to jako symbol walki z
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 niesprawiedliw¡ wªadz¡. Zªapano was kiedy Twój brat upu±ciª w
-iadro z wod¡
+\OT4/cmtt/m/sl/10 niesprawiedliw¡ wªadz¡. Zªapano was kiedy Twój brat upu±ciª wiadro z wod¡
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 na metalowy dach. Szybko was zªapano a nast¦pnie torturowano.
- Przez Twoj¡
+\OT4/cmtt/m/sl/10 na metalowy dach. Szybko was zªapano a nast¦pnie torturowano. Przez Twoj¡
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 akcj¦ walki z re»imem i kradzie» wody, nie tylko Ty jeste± za
-gro»ony. Nie
+\OT4/cmtt/m/sl/10 akcj¦ walki z re»imem i kradzie» wody, nie tylko Ty jeste± zagro»ony. Nie
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 byªo to tak dobrym pomysªem na ten moment jak wydawaªo si¦ wc
-ze±niej.
+\OT4/cmtt/m/sl/10 byªo to tak dobrym pomysªem na ten moment jak wydawaªo si¦ wcze±niej.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
-\OT4/cmtt/m/sl/10 Wiesz, »e podj¦cie si¦ tego zadania zagwarantuje prze»ycie ni
-e tylko
+\OT4/cmtt/m/sl/10 Wiesz, »e podj¦cie si¦ tego zadania zagwarantuje prze»ycie nie tylko
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\OT4/cmtt/m/sl/10 Kiedy pierwszy raz wszedªe± do biblioteki wymykaj¡c si¦ z d
-omu od razu
+[]\OT4/cmtt/m/sl/10 Kiedy pierwszy raz wszedªe± do biblioteki wymykaj¡c si¦ z domu od razu
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 zainteresowaªa Ci¦ grubo oprawiona ksi¡»ka. Otworzywszy j¡ zo
-baczyªe±
+\OT4/cmtt/m/sl/10 zainteresowaªa Ci¦ grubo oprawiona ksi¡»ka. Otworzywszy j¡ zobaczyªe±
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 jakie± robaczki i szlaczki a pod nimi obrazek dziwnego stwora
-. Cztery
+\OT4/cmtt/m/sl/10 jakie± robaczki i szlaczki a pod nimi obrazek dziwnego stwora. Cztery
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 odnó»a, gªowa i wªosy na caªym ciele. Podpis pod obrazkiem by
-ª "Kot".
+\OT4/cmtt/m/sl/10 odnó»a, gªowa i wªosy na caªym ciele. Podpis pod obrazkiem byª "Kot".
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 Chciaªe± dowiedzie¢ si¦ wi¦cej o tej kreaturze. Powoli zacz¡ª
-e± uczy¢
+\OT4/cmtt/m/sl/10 Chciaªe± dowiedzie¢ si¦ wi¦cej o tej kreaturze. Powoli zacz¡ªe± uczy¢
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 si¦ czyta¢ i pisa¢ a w gªowie byªe± na wspaniaªej przygodzie 
-po d»ungli.
+\OT4/cmtt/m/sl/10 si¦ czyta¢ i pisa¢ a w gªowie byªe± na wspaniaªej przygodzie po d»ungli.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 Po latach peªni¡c urz¡d w skªadzie zarz¡dcy przeczytaªe± nie 
-ten list
+\OT4/cmtt/m/sl/10 Po latach peªni¡c urz¡d w skªadzie zarz¡dcy przeczytaªe± nie ten list
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 co trzeba. Zªapany przez stra»ników kiedy próbowaªe± spali¢ i
-nformacje
+\OT4/cmtt/m/sl/10 co trzeba. Zªapany przez stra»ników kiedy próbowaªe± spali¢ informacje
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 trafiªe± do pierdla. Kiedy zaproponowano Ci wyjs¢ z osady wie
-dziaªe±,
+\OT4/cmtt/m/sl/10 trafiªe± do pierdla. Kiedy zaproponowano Ci wyjs¢ z osady wiedziaªe±,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\OT4/cmtt/m/sl/10 »e to okazja speªni¢ marzenia z dzieci«stwa. Ale aby podzieli
-¢ si¦ w
+\OT4/cmtt/m/sl/10 »e to okazja speªni¢ marzenia z dzieci«stwa. Ale aby podzieli¢ si¦ w
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[]\OT4/cmtt/m/sl/10 Cztery lata prac przy kamienioªomie daªy Ci czas na refleks
-je i
+[]\OT4/cmtt/m/sl/10 Cztery lata prac przy kamienioªomie daªy Ci czas na refleksje i
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 przemy±lenia. Dwie rodziny, które wymordowaªe± zanim zostaªe±
- zªapany do
+\OT4/cmtt/m/sl/10 przemy±lenia. Dwie rodziny, które wymordowaªe± zanim zostaªe± zªapany do
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 dzisiaj s¡ opªakiwane przez bliskich. Ale Ty wiesz swoje. Te 
-bogate ku*wy
+\OT4/cmtt/m/sl/10 dzisiaj s¡ opªakiwane przez bliskich. Ale Ty wiesz swoje. Te bogate ku*wy
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 nie b¦d¡ Ci rozkazywa¢. Po miesi¡cach tortur zamiast Ci¦ zabi
-¢ zesªano
+\OT4/cmtt/m/sl/10 nie b¦d¡ Ci rozkazywa¢. Po miesi¡cach tortur zamiast Ci¦ zabi¢ zesªano
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 Ci¦ do pracy. Marne jedzenie i codzienne nowe narz¦dzia do sp
-rawiania
+\OT4/cmtt/m/sl/10 Ci¦ do pracy. Marne jedzenie i codzienne nowe narz¦dzia do sprawiania
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 bólu staªy si¦ Twoj¡ codzienno±ci¡. Po tylu latach chciaªby± 
-aby si¦ to
+\OT4/cmtt/m/sl/10 bólu staªy si¦ Twoj¡ codzienno±ci¡. Po tylu latach chciaªby± aby si¦ to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 sko«czyªo. Teraz wiesz, »e mógªby± to zrobi¢ inaczej. Kiedy p
-owiedziano,
+\OT4/cmtt/m/sl/10 sko«czyªo. Teraz wiesz, »e mógªby± to zrobi¢ inaczej. Kiedy powiedziano,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 »e wysyªaj¡ Ci¦ za osad¦ w poszukiwaniu wody wiedziaªe±, »e t
-o Twoja
+\OT4/cmtt/m/sl/10 »e wysyªaj¡ Ci¦ za osad¦ w poszukiwaniu wody wiedziaªe±, »e to Twoja
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 szansa na wyrwanie si¦ z tego kurwidoªka. Obiecano Ci oczyszc
-zenie ze
+\OT4/cmtt/m/sl/10 szansa na wyrwanie si¦ z tego kurwidoªka. Obiecano Ci oczyszczenie ze
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
-\OT4/cmtt/m/sl/10 zbrodni je±li wrocisz a wiesz, »e sam tam mo»esz nie przetrwa
-¢. Pozatym
+\OT4/cmtt/m/sl/10 zbrodni je±li wrocisz a wiesz, »e sam tam mo»esz nie przetrwa¢. Pozatym
  []
 
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-[]\OT4/cmtt/m/sl/10 To Ciebie wybraª on, kochany i dobry przywódca. Nie mo»esz 
-go zawie±¢!
+[]\OT4/cmtt/m/sl/10 To Ciebie wybraª on, kochany i dobry przywódca. Nie mo»esz go zawie±¢!
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 Zawsze byªe± na jego rozkazy. Od kiedy pami¦tasz on uczyª Ci¦
- chodzi¢
+\OT4/cmtt/m/sl/10 Zawsze byªe± na jego rozkazy. Od kiedy pami¦tasz on uczyª Ci¦ chodzi¢
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 i mówi¢. Czyta¢ i pisa¢. Speªniaªe± jego ka»de zadanie skrupu
-latnie i
+\OT4/cmtt/m/sl/10 i mówi¢. Czyta¢ i pisa¢. Speªniaªe± jego ka»de zadanie skrupulatnie i
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 dokªadnie. Czasami w zamian pozwalaª Ci spa¢ w ªó»ku a nie na
- ziemi.
+\OT4/cmtt/m/sl/10 dokªadnie. Czasami w zamian pozwalaª Ci spa¢ w ªó»ku a nie na ziemi.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 Kiedy si¦ go sªuchaªe± »ycie dla Ciebie byªo du»o lepsze ni» 
-dla innych.
+\OT4/cmtt/m/sl/10 Kiedy si¦ go sªuchaªe± »ycie dla Ciebie byªo du»o lepsze ni» dla innych.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 Ale kiedy si¦ nie sªuchaªe± wiedziaªe± jak surowe s¡ jego kar
-y. Sam
+\OT4/cmtt/m/sl/10 Ale kiedy si¦ nie sªuchaªe± wiedziaªe± jak surowe s¡ jego kary. Sam
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 zgªosiªe± si¦ aby pój±¢ z tymi degeneratami i pokaza¢ ile jes
-te± warty.
+\OT4/cmtt/m/sl/10 zgªosiªe± si¦ aby pój±¢ z tymi degeneratami i pokaza¢ ile jeste± warty.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 Kiedy wyruszaªy pierwsze ekipy zabroniª Ci i±¢. Mówiª, »e to 
-nie dla
+\OT4/cmtt/m/sl/10 Kiedy wyruszaªy pierwsze ekipy zabroniª Ci i±¢. Mówiª, »e to nie dla
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 Ciebie. Teraz powierzyª Ci wa»ne zadanie. To Ty masz znale¹¢ 
-wod¦ dla
+\OT4/cmtt/m/sl/10 Ciebie. Teraz powierzyª Ci wa»ne zadanie. To Ty masz znale¹¢ wod¦ dla
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 ludu i zaistnie¢ jako jego prawa r¦ka. Taka szansa nie zdarza
- si¦ zawsze.
+\OT4/cmtt/m/sl/10 ludu i zaistnie¢ jako jego prawa r¦ka. Taka szansa nie zdarza si¦ zawsze.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-\OT4/cmtt/m/sl/10 nigdy o tym nawet nie marzyªe±. Taka szansa od zarz¡dcy dla C
-iebie. Jeste±
+\OT4/cmtt/m/sl/10 nigdy o tym nawet nie marzyªe±. Taka szansa od zarz¡dcy dla Ciebie. Jeste±
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-[]\OT4/cmtt/m/sl/10 "Ucz si¦ synu ucz bo nauka to pot¦gi klucz." mawiaª Twój dz
-iad do Twojego
+[]\OT4/cmtt/m/sl/10 "Ucz si¦ synu ucz bo nauka to pot¦gi klucz." mawiaª Twój dziad do Twojego
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 ojca i ojciec do Ciebie. Z tego powodu uczyªe± si¦. Poznaªe± 
-matematyk¦,
+\OT4/cmtt/m/sl/10 ojca i ojciec do Ciebie. Z tego powodu uczyªe± si¦. Poznaªe± matematyk¦,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 umiaªe± skªada¢ w caªo±¢ elementy o których inni mówili »e to
- szmelc.
+\OT4/cmtt/m/sl/10 umiaªe± skªada¢ w caªo±¢ elementy o których inni mówili »e to szmelc.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 Obsªug¦ komputera w bibliotek¦ poznaªe± w dwa lata. Po kolejn
-ych trzech
+\OT4/cmtt/m/sl/10 Obsªug¦ komputera w bibliotek¦ poznaªe± w dwa lata. Po kolejnych trzech
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 dostaªe± si¦ do rekordów dziennika pozostowianego przez Twoje
-go dziadka.
+\OT4/cmtt/m/sl/10 dostaªe± si¦ do rekordów dziennika pozostowianego przez Twojego dziadka.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 My±laªe±, »e dzi¦ki temu poprowadzisz do rozwoju osady, pomo»
-esz zbuntowa¢
+\OT4/cmtt/m/sl/10 My±laªe±, »e dzi¦ki temu poprowadzisz do rozwoju osady, pomo»esz zbuntowa¢
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 si¦ przeciwko zarz¡dcy. Zebraªe± grup¦ ochotników. Organizowa
-ªe± akcje
+\OT4/cmtt/m/sl/10 si¦ przeciwko zarz¡dcy. Zebraªe± grup¦ ochotników. Organizowaªe± akcje
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 antyrz¡dowe. Umiaªe± pomóc wszystkim gdy» poznaªe± podstawy m
-edycyny.
+\OT4/cmtt/m/sl/10 antyrz¡dowe. Umiaªe± pomóc wszystkim gdy» poznaªe± podstawy medycyny.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 Mimo walki z re»imem Ty daªe± anonimow¡ wiadomo±¢ o ska»eniu 
-wody. Ale ta
+\OT4/cmtt/m/sl/10 Mimo walki z re»imem Ty daªe± anonimow¡ wiadomo±¢ o ska»eniu wody. Ale ta
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 wiedza Ci¦ zgubiªa, bo kto± byª jednak m¡drzejszy. Zamkni¦ty 
-w celi miaªe±
+\OT4/cmtt/m/sl/10 wiedza Ci¦ zgubiªa, bo kto± byª jednak m¡drzejszy. Zamkni¦ty w celi miaªe±
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 pracowa¢ dla zarz¡dcy nad rozszyfrowaniem schematów, ale wied
-za, któr¡ tam
+\OT4/cmtt/m/sl/10 pracowa¢ dla zarz¡dcy nad rozszyfrowaniem schematów, ale wiedza, któr¡ tam
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 ukryto w tym miejscu jest nie do odzyskania. Wiedziaª i o tym
- ten który
+\OT4/cmtt/m/sl/10 ukryto w tym miejscu jest nie do odzyskania. Wiedziaª i o tym ten który
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 wrzuciª Ci¦ do celi. Dlatego kazaª Tobie i±¢ i znale¹¢ »ródªo
- wody je»eli
+\OT4/cmtt/m/sl/10 wrzuciª Ci¦ do celi. Dlatego kazaª Tobie i±¢ i znale¹¢ »ródªo wody je»eli
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
-\OT4/cmtt/m/sl/10 nie ma tu jak jej oczyszcza¢. A jedynie Ty b¦dziesz wiedziaª 
-gdzie b¦dzie
+\OT4/cmtt/m/sl/10 nie ma tu jak jej oczyszcza¢. A jedynie Ty b¦dziesz wiedziaª gdzie b¦dzie
  []
 
 [4] (fence.pdf_tex
@@ -929,22 +690,7 @@ Here is how much of TeX's memory you used:
  13167 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,8n,73p,1420b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/njvnyv/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/enc/dvips/pl/plit.enc}{C:/Users/njvnyv/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/enc/dvips/pl/pltt.enc}{C:/Users/njvnyv/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/njvnyv/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbxsl10.pfb><C:/Users/n
-jvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbxti10.pfb><C:/
-Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb>
-<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.
-pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/pl
-r17.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/p
-l/plsl10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/pl/plsltt10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/pl/plti10.pfb>
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plit.enc}{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/pltt.enc}{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbxsl10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbxti10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsl10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsltt10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plti10.pfb>
 Output written on Day_1.pdf (6 pages, 136817 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)

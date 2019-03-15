@@ -1,16 +1,21 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  13 MAR 2019 12:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  13 MAR 2019 13:12
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
 (c:/Users/njvnyv/Documents/Warhammer/War/czwartek2.tex
 LaTeX2e <2018-04-01> patch level 5
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mwcls\mwart.cls"
-Document Class: mwart 2017/05/13 v0.75 A LaTeX document class (MW)
-*** Beta version. Formatting may change
-*** in future versions of this class.
-("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mwcls\mw11.clo"
-File: mw11.clo 2017/05/13 v0.75 A document class size option (MW)
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\size17.clo"
+File: size17.clo 1999/11/11 NON-Standard LaTeX file (size option)
+) ("C:\Users\njvnyv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
 )
-\@parindent=\dimen102
 \c@part=\count80
 \c@section=\count81
 \c@subsection=\count82
@@ -151,39 +156,40 @@ LaTeX Font Info:    Try loading font information for OMX+plex on input line 13.
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10.95> on input line 13.
+(Font)              <20.74> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <17.28> on input line 17.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 17.
  [1
 
-{C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-[2] [3]
+[5] [6] [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-[4] [5] [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7] [8] (czwartek2.aux) ) 
+[9] [10] [11] [12] [13] [14] [15] [16] [17] (czwartek2.aux) ) 
 Here is how much of TeX's memory you used:
- 1278 strings out of 492973
- 17087 string characters out of 3126250
- 84186 words of memory out of 3000000
- 5159 multiletter control sequences out of 15000+200000
- 11292 words of font info for 33 fonts, out of 3000000 for 9000
+ 1158 strings out of 492973
+ 17171 string characters out of 3126250
+ 82620 words of memory out of 3000000
+ 5042 multiletter control sequences out of 15000+200000
+ 12307 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,25p,1514b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on czwartek2.pdf (8 pages, 76099 bytes).
+ 28i,7n,25p,1514b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
+Output written on czwartek2.pdf (17 pages, 59806 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
