@@ -1,0 +1,96 @@
+﻿Absorption;Ab;VS;1 act;Personal;10 min/lev;-;N;You absorb spell energy to power your spells;SpC.6
+Abyssal Army[Chaotic, Evil];Co;VS;10 min;Medium;10 min/lev (D);-;N;Summons demons to fight for you.;SpC.7
+Abyssal Rift[Evil];Co;VSM;1 act;Long;3 rounds ;Special;Y;Opens a rift in the ground;FC1.91
+Astral Projection;Ne;VSM 30 min ;Touch;Special;-;Y;Projects you and companions onto Astral Pl.;PHB.201
+Awaken Construct;Tr;VSMX 8 hours ;Touch;Instantaneous;Will n.;Y;Construct gains humanlike sentience. ;SpC.21
+Bigby's Crushing Hand[Force];Ev;VSMF;1 act;Medium;1 round/lev (D);-;Y;Hand provides cover, pushes/crushes foes;PHB.203
+Binding Chain of Fate;Ev;VSM;1 act;Close;1 round/lev;Will n.;Y;Force whips into a loop around creatureCo;SW.152
+Black Blade of Disaster;Co;VS;1 act;Close;Up to 1 rnd/lev;-;Y;Floating magic weapon disintegrates subjects.;SpC.29
+Blinding Glory[Good];Co;VSM;1 hour;Close;1 hour/lev;-;N;100-ft/lev radius light blinds evil creatures ;BED.92
+Breath Weapon Admix. (BREATH)[Special];Tr;S;Swift;Personal;1 round;-;N;Add 2nd kind of energy to your breath weapon;SpC.39
+Burst of Glacial Wrath[Cold] Ev/Tr VS;1 act;30 ft; Instantaneous ;For half.;Y;Freeze nearby creatures into blocks of ice;DM.64
+Call Marut[Lawful];Co;VSX;10 min;Close;Instantaneous;-;N;A marut performs one duty for you.;SpC.42
+Construct Essence, Greater;Tr;VS;1 act;Touch;1 min/lev;Will n.;Y;Grants living construct all construct qualities;RoE.183
+Crushing Fist of Spite (DIS.) [Evil, Force];Ev;VSM;1 act;Medium;1 round/lev ;Special;Y;Fist deals 1d6 damage/lev each round;BVD.89
+Deadly Sunstroke[Fire];Ev;VS;1 act;Long;Instantaneous;Fort part.;Y;Deal 1d6 fire dmg/lev and fatigues;CM.101
+Detonate[Death, Fire];Ev;VSM;1 act;Medium;Instantaneous;Fort part.;Y;Slays subject, deals 1d6/lev dmg in 20-ft radius;PH2.109
+Dimension Jumper, Greater;Co;V;Swift;Personal;1 round/lev;-;N;Teleport up to 60 feet 1/round;CM.102
+Dominate Monster[Mind-Affecting];En;VS;1 round;Close;1 day/lev;Will n.;Y;Controls monster telepathically;PHB.224
+Dragon Ally, Greater;Co;VX;10 min;Close;Instantaneous;-;N;Exchange services with a 22 HD dragon;SpC.72
+Dragonshape;Tr;VS;Swift;Personal;1 round/lev (D);-;N;Take on form and abilities of Huge red dragon;PH2.111
+Effulgent Epuration;Ab;VS;1 act;Close;1 round/lev;Will n.;Y;1 sphere/lev negates hostile magic;SpC.78
+Energy Drain;Ne;VS;1 act;Close;Instantaneous;Fort part.;Y;Subject gains 2d4 negative levels;PHB.226
+Enervating Breath (BREATH) ;Ne;S;Swift;Personal;1 round ;Special;N;Your breath weapon also bestows 2d4 neg. lev.;SpC.82
+Ensul's Soultheft[Evil];Ne;VSM;1 round;Touch;1 round/lev (D);Will n.;Y;Touch attacks steal lifeforce, heal casterCo;SW.152
+Etherealness;Tr;VS;1 act;Touch;1 minn/lev (D);-;Y;Travel to Ethereal Plane with companions;PHB.228
+Eye of Power;Di;VSM;10 min;Unlimit. 1 min/lev (D);-;N;As Arcane Eye, can cast spells up to 3rd lev;SpC.87
+Foresight;Di;VSM;1 act;Touch;10 min/lev ;Special;Sp.;?Sixth sense? warns of impending danger;PHB.233
+Freedom;Ab;VS;1 act;Close;Instantaneous;Will n.;Y;Releases creature from imprisonment;PHB.233
+Frostfell[Cold];Tr;VSM;1 round;Medium;1 hour/lev;Fort part.;Sp.;Turns all subject in area into ice ;FB.95
+Gate;Co;VSX;1 act;Medium;Special;-;N;Connects two planes to travel or summon;PHB.234
+Genesis;Co;VSMX 1 week 180 ft; Instantaneous;-;N;You create a demiplane on the Ethereal PlaneELHB.117
+Genius Loci[Special];Co;VSM;1 hour;0 ft;.  Permanent;-;N;Create a guardian spirit for a specific location;CM.105
+Halaster's Fetch VI ;Co;VSF;1 round;Close;1 round/lev (D);-;N;Calls  extraplanar (1 6th, 1d3 5th or 1d4+1 4th)Co;SW.154
+Halaster's Scrying Cage;Ab;VSM;10 min;Close;Permanent;-;N;Modifies the functioning of all divinations;EUM.219
+Halaster's Teleport Cage;Ab;VSM;10 min;Close;Permanent;-;N;Modifies the functioning of all conjurations;EUM.219
+Heavenly Host[Good, Lawful];Co;VS;10 min;Medium;10 min/lev (D);-;N;Summons archons to fight for you.;SpC.113
+Hellish Horde[Evil, Lawful];Co;VS;10 min;Medium;10 min/lev (D);-;N;Summons devils to fight for you. ;SpC.113
+Hindsight;Di;VSM;1 hour;60 ft; Instantaneous;-;N;You see into the past. ;SpC.114
+Hold Monster, Mass[Mind-Affecting];En;VSF;1 act;Medium;1 round/lev (D);Will n.;Y;Paralyzes creatures within 30 ft;;PHB.241
+Ice Assassin;Il;VSMX 8 hrs ;Touch;Instantaneous;-;N;Creates murderous duplicate of creature;FB.97
+Iceberg[Cold];Ev;VS;1 act;Long;Instantaneous ;Special;Y;Block of ice deals 20d6 and buries subjects;FB.101
+Imprisonment;Ab;VS;1 act;Touch;Instantaneous;Will n.;Y;Entombs creature beneath the earth;PHB.244
+Instant Refuge;Ev;VSMX;10 min;Personal;Until triggered;-;N;Transport to a safe location of your choice.;SpC.124
+Investiture of the Hellfire Engine[Evil];Tr;VSM;1 act;Close;1 min/lev;Will n.;Y;Target gains iron body and 8d10 breath weap. ;FC2.103
+Investiture of the Pit Fiend[Evil];Tr;VSM;1 act;Close;1 min/lev;Will n.;Y;Target gains claw, inflict disease, or terror ;FC2.105
+Invoke Magic;Ev;VSM;Swift;Personal;1 round;-;N;Momentarily negate antimagic effects ;LoM.212
+Khelben's Dweomerdoom;Ab;VSF;Swift;Close;Instantaneous;-;N;Counterspell opponent's spell before it is castCo;SW.155
+Laeral's Crowning Touch;Ne;VSFX;1 act;Touch;1 year + 1 day;Will n.;Y;Targets gets negative levels when he castsCo;SW.155
+Lash of Force[Force];Ev;VS;1 act;Special; 1 round/lev ;Special;Y;Strike for 5d6 dmg, can become a 15d6 line;CM.109
+Magic Miasma;Ab;VSM;1 act;Medium;1 round/lev ;Special;N;Solid fog reduces caster level by -4.;SpC.137
+Maw of Chaos[Chaotic];Ab;VSM;1 act;Medium;1 round/lev;Will part.;Y;Dazes, deals damage, impedes concentration;SpC.140
+Meteor Swarm[Fire];Ev;VS;1 act;Long;Instantaneous ;Special;Y;4 spheres deal 6d6 fire damage;PHB.253
+Mindrape[Evil, Mind-Affecting];En;VS;1 act;Medium;Instantaneous;Will n.;Y;Caster learns everything subject knows;BVD.99
+Mordenkainen's Disjunction;Ab;V;1 act;Close;Instantaneous;Will n.;N;Dispels magic and disenchants magic items ;PHB.255
+Mycontil's Last Resort;Ev;VSM;1 act;Personal;Instantaneous ;Ref half.;Y;Sacrifice spells to unleash devastating explosion;ShS.48
+Necrotic Termination[Evil];Ne;VSFX;1 act;Medium;Instantaneous;Fort part.;N;Permanently eliminates encysted subject;LM.69
+Node Genesis[Earth];Co;VSX 10 days ;Touch;Instantaneous;-;N;Creates a Class 1 earth node;Und.59
+Obedient Avalanche[Cold];Co;VS;1 act;Medium;Instantaneous ;Special;N;Snowy avalanche crushes and buries your foes.;SpC.148
+Perinarch, Planar;Tr;VSD;1 act;Close;1 round/lev ;Special;N;Gain control over morphic plane area;SpC.154
+Plague of Undead[Evil];Ne;VSM;1 act;Close;Instantaneous;-;N;Animates horde of undead.;SpC.158
+Planar Navigation;Co;VSFD;1 min;Touch;Instantaneous;Will n.;Y;Send a whole ship to another plane.;SW.119
+Power Word Kill[Death, Mind-Affecting];En;V;1 act;Close;Instantaneous;-;Y;Kills one creature with up to 100 hp;PHB.263
+Precipitate Complete Breach;Co;VMX;10 min;0 ft; ;Special;-;Y;Rip wide the boundaries between 2 planesPlHB.104
+Prismatic Deluge;Ev;VS;1 act;Medium;Instantaneous ;Special;Y;Call down a prismatic effect over a wide area;CM.114
+Prismatic Sphere;Ab;V;1 act;10 ft; 10 min/lev (D) ;Special;Sp.;Sphere's colors have array of effects;PHB.264
+Programmed Amnesia[Mind-Affecting];En;VSM;10 min;Close;Permanent;Will n.;Y;Destroy, alter or replace memories;SpC.162
+Reality Maelstrom;Ev;VSM;1 act;Medium;1 round ;Special;Y;Sends creatures and objects to another plane ;SpC.168
+Reaving Dispel;Ab;VS;1 act;Medium;Instantaneous ;Special;N;On a dispel, steal spell power and effect;SpC.169
+Refuge;Co;VSM;1 act;Touch;Until discharg.;-;N;Alters item to transport its possessor to you;PHB.269
+Replicate Casting[Special];Tr;VS;1 round;Special;Special;Special;Sp.;Duplicate observed spell or spell-like ability.;SpC.173
+Revitalize Legacy, Greater;Tr;VSF;1 act;Touch;1 hour/lev;-;N;Get extra use of chosen greater legacy ability;WoL.17
+Ring of Fire[Fire];Co;VSM;1 round;Medium;1 round/2 lev ;Ref part.;N;Create a spreading area of lava ;EE.28
+Shades;Il;VS;1 act;Special;Special;Will dis.;Y;Mimics conjuration up to 8th level, 80% real;PHB.276
+Shapechange;Tr;VSF;1 act;Personal;10 min/lev (D);-;N;Change into any creature once/round;PHB.277
+Soul Bind;Ne;VSF;1 act;Close;Permanent;Will n.;N;Traps newly dead soul to prevent resurrection;PHB.281
+Spell Matrix, Greater;Tr;VSF;1 act;Personal;10 min/lev (D);-;N;Store 3 spells of 3rd lev or lower for later use;SpC.199
+Sphere of Ultimate Destruction;Co;VSM;1 act;Medium;1 round/lev (D);Fort part.;Y;Black sphere does 2d6/lev dmg, disintegrates;SpC.200
+Srinshee's Spell Shift;Ab;VSM;1 act;Personal;1 round/lev (D);-;N;Manipulate another?s spell, or stuns the caster L;EoF.34
+Stasis Clone;Ne;VSMF;10 min;0 ft; Instantaneous;-;N;Clone in stasis if subject is alive;LoD.189
+Summon Elemental Monolith[Special];Co;VSM;1 round;Medium;Up to 1 rnd/lev;-;N;Calls powerful elemental creature to fight;SpC.214
+Summon Golem;Co;VSF;1 round;Close;1 min/lev;-;N;Summon clay, flesh, iron, or stone golem;PH2.126
+Summon Monster IX;Co;VSF;1 round;Close;1 round/lev (D);-;N;Calls  extraplanar (1 9th, 1d3 8th or 1d4+1 7th) ;PHB.288
+Teleportation Circle;Co;VM;10 min;0 ft; 10 min/lev (D);-;Y;Circle teleports creatures inside to place;PHB.293
+Tidal Wave;Ev;VSMX;10 min;Long;1 min/lev;-;N;Massive wave crashes on the coast;ShS.51
+Time Stop;Tr;V;1 act;Personal;1d4+1 rounds;-;N;You act freely for 1d4+1 rounds ;PHB.294
+Towering Thunderhead[Air];Co;VS;1 act;Long;3 rounds (D);-;N;Conceal, block ranged, empower some spells;CM.120
+Transmute Rock to Lava[Earth, Fire];Tr;VS;1 act;Medium;Instantaneous ;Ref half.;N;Transforms one 10-ft cube, with fire damage;SpC.222
+Truename Binding, Greater (TRUENAME) ;Co;VSX;10 min;Close;Instantaneous;Will n.;Sp.;Enslaves extraplanar creature up to CR 14;ToM.260
+Unbinding;Ab;VSM;1 round;180 ft; Instantaneous;-;N;Frees everyone from spells that constrain;SpC.225
+Undermaster[Earth];Tr;VM;1 act;Personal;5 rounds;-;N;You gain earth-related spell-like abilities. ;SpC.227
+Unname (TRUENAME);Ne;VS;1 act;Medium;Instantaneous;For n.;Y;Erase a creature from reality;ToM.260
+Utterdark[Evil];Co;VSM 3 rds ;Close;1 hour/lev;-;N;100-ft/lev of darkness, evil creatures can see;LoM.213
+Vile Death[Evil];Co;VSMX;1 hour;Touch;Permanent (D);-;Y;Undead creature gains fiendish template. ;SpC.229
+Wail of the Banshee[Death, Sonic];Ne;V;1 act;Close;Instantaneous;For n.;Y;Kills one creature/level ;PHB.298
+Weird[Fear, Mind-Affecting];Il;VS;1 act;Medium;Instantaneous ;Special;Y;Illusion kills subjects within 30 ft;, or deals 3d6;PHB.301
+Wish;Un;VX;1 act;Special;Special;Special;Y;Alters reality;PHB.302
