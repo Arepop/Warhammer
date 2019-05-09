@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  28 MAR 2019 09:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.4)  16 APR 2019 10:56
 entering extended mode
 **c:/Users/njvnyv/Documents/Warhammer/Yarren.tex
 (c:/Users/njvnyv/Documents/Warhammer/Yarren.tex
@@ -387,21 +387,96 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <8> on input line 32.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <6> on input line 32.
- [1
 
-{C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (c:/Users\njvnyv\Documents\Warhammer\Yarren.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[1
+
+{C:/Users/njvnyv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[3] [4] (c:/Users\njvnyv\Documents\Warhammer\Yarren.aux) ) 
 Here is how much of TeX's memory you used:
  11586 strings out of 492973
  234096 string characters out of 3126250
- 274203 words of memory out of 3000000
+ 282203 words of memory out of 3000000
  15232 multiletter control sequences out of 15000+200000
  8681 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,6n,73p,870b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,6n,73p,1738b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/njvnyv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on c:/Users\njvnyv\Documents\Warhammer\Yarren.pdf (1 page, 26670 bytes).
+Output written on c:/Users\njvnyv\Documents\Warhammer\Yarren.pdf (4 pages, 45093 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
